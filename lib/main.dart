@@ -25,7 +25,7 @@ class MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     List<String> questions = [
       "What is your favorite color?",
-      "What is your not your favorite color?"
+      "What is your favorite food?"
     ];
 
     return MaterialApp(
